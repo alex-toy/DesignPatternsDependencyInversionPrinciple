@@ -1,1 +1,1 @@
-# Design Patterns - Dependency Inversion Principle 
+# Design Patterns - Liskov Substitution Principle Explained
