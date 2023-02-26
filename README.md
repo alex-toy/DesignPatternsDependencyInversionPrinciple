@@ -1,1 +1,1 @@
-# EntityFrameworkBestPractices
+# Design Patterns - Dependency Inversion Principle 
