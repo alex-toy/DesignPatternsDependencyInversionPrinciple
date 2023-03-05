@@ -1,0 +1,12 @@
+C:\source\CsharpDesignPatterns\DesignPatternsLiskovSubstitutionPrincipleExplained\LSPDemo_Start\LSPLibrary\bin\Debug\net6.0\LSPLibrary.deps.json
+C:\source\CsharpDesignPatterns\DesignPatternsLiskovSubstitutionPrincipleExplained\LSPDemo_Start\LSPLibrary\bin\Debug\net6.0\LSPLibrary.dll
+C:\source\CsharpDesignPatterns\DesignPatternsLiskovSubstitutionPrincipleExplained\LSPDemo_Start\LSPLibrary\bin\Debug\net6.0\LSPLibrary.pdb
+C:\source\CsharpDesignPatterns\DesignPatternsLiskovSubstitutionPrincipleExplained\LSPDemo_Start\LSPLibrary\obj\Debug\net6.0\LSPLibrary.csproj.AssemblyReference.cache
+C:\source\CsharpDesignPatterns\DesignPatternsLiskovSubstitutionPrincipleExplained\LSPDemo_Start\LSPLibrary\obj\Debug\net6.0\LSPLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\CsharpDesignPatterns\DesignPatternsLiskovSubstitutionPrincipleExplained\LSPDemo_Start\LSPLibrary\obj\Debug\net6.0\LSPLibrary.AssemblyInfoInputs.cache
+C:\source\CsharpDesignPatterns\DesignPatternsLiskovSubstitutionPrincipleExplained\LSPDemo_Start\LSPLibrary\obj\Debug\net6.0\LSPLibrary.AssemblyInfo.cs
+C:\source\CsharpDesignPatterns\DesignPatternsLiskovSubstitutionPrincipleExplained\LSPDemo_Start\LSPLibrary\obj\Debug\net6.0\LSPLibrary.csproj.CoreCompileInputs.cache
+C:\source\CsharpDesignPatterns\DesignPatternsLiskovSubstitutionPrincipleExplained\LSPDemo_Start\LSPLibrary\obj\Debug\net6.0\LSPLibrary.dll
+C:\source\CsharpDesignPatterns\DesignPatternsLiskovSubstitutionPrincipleExplained\LSPDemo_Start\LSPLibrary\obj\Debug\net6.0\refint\LSPLibrary.dll
+C:\source\CsharpDesignPatterns\DesignPatternsLiskovSubstitutionPrincipleExplained\LSPDemo_Start\LSPLibrary\obj\Debug\net6.0\LSPLibrary.pdb
+C:\source\CsharpDesignPatterns\DesignPatternsLiskovSubstitutionPrincipleExplained\LSPDemo_Start\LSPLibrary\obj\Debug\net6.0\ref\LSPLibrary.dll
