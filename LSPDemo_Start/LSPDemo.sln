@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{FCAB5718-A63D-446C-A218-BE1D446B7EF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSPLibrary", "LSPLibrary\LSPLibrary.csproj", "{77402FB3-D3FB-4506-9F67-0945907F8C07}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotLSPLibrary", "LSPLibrary\NotLSPLibrary.csproj", "{77402FB3-D3FB-4506-9F67-0945907F8C07}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

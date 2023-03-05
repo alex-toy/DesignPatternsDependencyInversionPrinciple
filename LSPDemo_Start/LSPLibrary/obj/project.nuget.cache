@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KQLofkulxMlnujSN6rxj0WITFwB7Z2fC4mqXxvn/aXqhlN8f34oUXdvZUhY3t6GYEeukJX8SXpmA0L8Oly4UAw==",
+  "dgSpecHash": "jBgQPznJmKIyV+b8+P+DymYDXJGdFFwA++f1x5y4ee2gjklg4ZzCfwiJ6ZB1PT4vl1gLlDKNnKvXDvDxXz0ZBQ==",
   "success": true,
-  "projectFilePath": "C:\\source\\CsharpDesignPatterns\\DesignPatternsLiskovSubstitutionPrincipleExplained\\LSPDemo_Start\\LSPLibrary\\LSPLibrary.csproj",
+  "projectFilePath": "C:\\source\\CsharpDesignPatterns\\DesignPatternsLiskovSubstitutionPrincipleExplained\\LSPDemo_Start\\LSPLibrary\\NotLSPLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

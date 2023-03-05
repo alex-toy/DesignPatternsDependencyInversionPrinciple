@@ -1,4 +1,4 @@
-﻿namespace LSPLibrary
+﻿namespace NotLSPLibrary
 {
     public class Manager : Employee
     {
