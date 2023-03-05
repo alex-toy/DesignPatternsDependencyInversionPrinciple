@@ -8,7 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\LSPLibrary\LSPLibrary.csproj" />
     <ProjectReference Include="..\LSPLibrary\NotLSPLibrary.csproj" />
+    <ProjectReference Include="..\NotLSPLibrary\NotLSPLibrary.csproj" />
   </ItemGroup>
 
 </Project>

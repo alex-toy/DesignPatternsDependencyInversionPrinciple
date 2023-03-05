@@ -1,24 +1,18 @@
-﻿namespace LSPLibrary
+﻿namespace NotLSPLibrary
 {
-    public class CEO : BaseEmployee, IManager
+    public class Manager : Employee
     {
         public override void CalculatePerHourRate(int rank)
         {
-            decimal baseAmount = 150M;
+            decimal baseAmount = 19.75M;
 
-            Salary = baseAmount * rank;
+            Salary = baseAmount + (rank * 4);
         }
 
         public void GeneratePerformanceReview()
         {
             // Simulate reviewing a direct report
             Console.WriteLine("I'm reviewing a direct report's performance.");
-        }
-
-        public void FireSomeone()
-        {
-            // Simulate firing someone
-            Console.WriteLine("You're Fired!");
         }
     }
 }

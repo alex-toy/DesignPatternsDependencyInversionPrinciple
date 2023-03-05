@@ -1,11 +1,10 @@
-﻿namespace NotLSPLibrary
+﻿namespace LSPLibrary
 {
-    public class Manager : Employee
+    public class Manager : Employee, IManager
     {
         public override void CalculatePerHourRate(int rank)
         {
             decimal baseAmount = 19.75M;
-
             Salary = baseAmount + (rank * 4);
         }
 

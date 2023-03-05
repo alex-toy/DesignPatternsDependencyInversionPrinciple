@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\CsharpDesignPatterns\\DesignPatternsLiskovSubstitutionPrincipleExplained\\LSPDemo_Start\\LSPLibrary\\NotLSPLibrary.csproj",
-      "projectName": "NotLSPLibrary",
-      "projectPath": "C:\\source\\CsharpDesignPatterns\\DesignPatternsLiskovSubstitutionPrincipleExplained\\LSPDemo_Start\\LSPLibrary\\NotLSPLibrary.csproj",
+      "projectUniqueName": "C:\\source\\CsharpDesignPatterns\\DesignPatternsLiskovSubstitutionPrincipleExplained\\LSPDemo_Start\\LSPLibrary\\LSPLibrary.csproj",
+      "projectName": "LSPLibrary",
+      "projectPath": "C:\\source\\CsharpDesignPatterns\\DesignPatternsLiskovSubstitutionPrincipleExplained\\LSPDemo_Start\\LSPLibrary\\LSPLibrary.csproj",
       "packagesPath": "C:\\Users\\alexe\\.nuget\\packages\\",
       "outputPath": "C:\\source\\CsharpDesignPatterns\\DesignPatternsLiskovSubstitutionPrincipleExplained\\LSPDemo_Start\\LSPLibrary\\obj\\",
       "projectStyle": "PackageReference",
